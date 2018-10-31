@@ -1,13 +1,14 @@
 .page-header {
-    background-color: #ff9400;
+    background-color: #008080;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: #FFFFFF;
     font-size: 36pt;
     text-decoration: none;
+    font-family:'Fontdiner Swanky', cursive;
 }
 
 .content {
@@ -15,7 +16,7 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Roboto Slab', serif;
 }
 
 .date {
