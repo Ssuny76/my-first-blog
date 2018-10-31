@@ -12,6 +12,10 @@
     font-family:'Merriweather', serif;
 }
 
+.page-header a{
+    padding-top: 15px;
+}
+
 .content {
     margin-left: 40px;
 }
