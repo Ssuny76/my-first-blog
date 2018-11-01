@@ -16,6 +16,10 @@
     padding-top: 15px;
 }
 
+.page-header p{
+    padding-top: 15px;
+    font-size: 15pt;
+}
 .content {
     margin-left: 40px;
     text-align: center; 
